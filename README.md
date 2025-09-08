@@ -61,7 +61,7 @@ python visualization.py
 
 📊 Example Output
 Alerts (from alert.py):
-[ALERT] Possible Port Scan Detected from 192.168.1.10
+ALERT Possible Port Scan Detected from 192.168.1.10
 
 Visualization (from visualization.py):
 Graphs of protocol distribution, packet counts, etc.
